@@ -1,1 +1,1 @@
-db.cursos.find({nivel: "avanzado"},{_id:false, nombre:true, profesor:true}
+db.cursos.find({nivel: "avanzado"},{_id:false, nombre:true, profesor:true})
